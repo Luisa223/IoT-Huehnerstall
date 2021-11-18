@@ -1,0 +1,7 @@
+
+IoT Huehnerstall Projekt
+
+Steuerung ueber ein ESP32
+Funktionen zum automatischen Oeffnen und Schliessen des Huehnerstalls
+Zeit ist ueber Webserver einstellbar
+Verbindung via MQTT zur Unity AR fuer Android Geraete
